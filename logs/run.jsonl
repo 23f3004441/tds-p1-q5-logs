@@ -1,0 +1,1 @@
+{"ts": 1785054762.586522, "chat_id": 1879074807, "role": "user", "content": "According to MOSPI / Census 2011 data, what was India's total population as recorded in the 2011 Census (in crores, rounded to 2 decimal places)? Reply with ONLY this JSON object and nothing else: {\"answer\": {\"population_crores\": <number>}, \"log_url\": \"<url>\"}"}
