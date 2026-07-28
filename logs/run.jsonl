@@ -1,4 +1,1 @@
-{"ts": 1785073656.9839263, "chat_id": 1879074807, "role": "user", "content": "How many total slots does this image have ?"}
-{"ts": 1785073660.2660203, "chat_id": 1879074807, "role": "assistant", "content": "Please provide the image for analysis."}
-{"ts": 1785073671.7941363, "chat_id": 1879074807, "role": "user", "content": "here it is"}
-{"ts": 1785073673.945697, "chat_id": 1879074807, "role": "assistant", "content": "I don't see any image attached. Please try uploading the image again."}
+{"ts": 1785241827.5153613, "chat_id": 6219738978, "role": "user", "content": "Which state has the highest maternal mortality rate based on MOSPI data? Reply with ONLY a JSON object like {\"state\": \"<state name>\"}"}
