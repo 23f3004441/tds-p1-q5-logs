@@ -1,3 +1,4 @@
 {"ts": 1786257074.9529924, "chat_id": 1879074807, "role": "user", "content": "Hi"}
 {"ts": 1786257078.3544927, "chat_id": 1879074807, "role": "assistant", "content": "Hello! How can I assist you today?"}
 {"ts": 1786257087.3422318, "chat_id": 1879074807, "role": "user", "content": "According to the Wikipedia page \"List of countries by GDP (nominal)\", which country currently has the highest nominal GDP? Reply with ONLY this JSON object and nothing else: {\"answer\": {\"country\": \"<country name>\"}, \"log_url\": \"<url>\"}"}
+{"ts": 1786257099.7512987, "chat_id": 1879074807, "role": "user", "content": "According to MOSPI / Census 2011 data, what was India's total population as recorded in the 2011 Census (in crores, rounded to 2 decimal places)? Reply with ONLY this JSON object and nothing else: {\"answer\": {\"population_crores\": <number>}, \"log_url\": \"<url>\"}"}
