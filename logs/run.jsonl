@@ -1,1 +1,2 @@
 {"ts": 1786256873.3769512, "chat_id": 1879074807, "role": "user", "content": "Hi"}
+{"ts": 1786256875.7747357, "chat_id": 1879074807, "role": "error", "content": "Client error '401 Unauthorized' for url 'https://aipipe.org/openai/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/401"}
